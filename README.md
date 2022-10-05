@@ -23,7 +23,6 @@ Math skill is very important as they help us in understanding various machine le
 * Vector Calculus
 * Optimization
 
-
 ### Part 2:
 * Regression
 * Dimensionality Reduction
@@ -108,12 +107,6 @@ One needs to have a good grasp of programming concepts such as Data structures a
 * Linux
 * Git
   
-### References: 
-* Python
-* R
-* SQL
-* Data Structure
-
 ### Machine Learning
 ML is one of the most vital parts of data science and the hottest subject of research among researchers so each year new advancements are made in this. One at least needs to understand basic algorithms of Supervised and Unsupervised Learning. There are multiple libraries available in Python and R for implementing these algorithms.
 
@@ -183,7 +176,6 @@ The last part is doing the deployment. Definitely, whether you are fresher or 5+
 * DJango
 
 ### Other Points to Learn
-
 * Domain Knowledge
 * Communication Skill
 * Reinforcement Learning
